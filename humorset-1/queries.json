@@ -1,0 +1,517 @@
+{
+  "comment": "A curated list of short jokes in English, selected from stage 1 and stage 2 puzzles at https://playteg.com",
+  "queries": [
+    {
+      "query": "I hate matryoshka dolls. They are so full of themselves.",
+      "id": "TEG-2"
+    },
+    {
+      "query": "Autocorrect has become my worst enema.",
+      "id": "TEG-3"
+    },
+    {
+      "query": "F5 is my favorite key. It's just so refreshing!",
+      "id": "TEG-4"
+    },
+    {
+      "query": "The first computer was an Apple with just one byte.",
+      "id": "TEG-6"
+    },
+    {
+      "query": "Do not spell part backwards. It's a trap.",
+      "id": "TEG-8"
+    },
+    {
+      "query": "As a claustrophobic, I prefer thinking out of the box.",
+      "id": "TEG-9"
+    },
+    {
+      "query": "French people eat escargot because they don't like fast food.",
+      "id": "TEG-10"
+    },
+    {
+      "query": "He didn't want to get a brain transplant, but then he changed his mind.",
+      "id": "TEG-11"
+    },
+    {
+      "query": "I only know 25 letters. I don't know why.",
+      "id": "TEG-12"
+    },
+    {
+      "query": "Of course I heard about the kidnapping at school. She already woke up.",
+      "id": "TEG-13"
+    },
+    {
+      "query": "I am on a seafood diet. Whenever I see food, I eat it.",
+      "id": "TEG-14"
+    },
+    {
+      "query": "One eye says to the other eye, \"Between you and me, something smells.\"",
+      "id": "TEG-15"
+    },
+    {
+      "query": "I'll be ill if you remove the apostrophe.",
+      "id": "TEG-17"
+    },
+    {
+      "query": "Always give 100%. Unless you are donating blood.",
+      "id": "TEG-19"
+    },
+    {
+      "query": "I asked my date to call me when she got home. Now I think she is homeless.",
+      "id": "TEG-21"
+    },
+    {
+      "query": "I'm a taxi driver. People don't like it when I go the extra mile for them.",
+      "id": "TEG-22"
+    },
+    {
+      "query": "We must wipe out and put an end to redundancy!",
+      "id": "TEG-23"
+    },
+    {
+      "query": "I can never tell if someone is hitchhiking or just complimenting my driving.",
+      "id": "TEG-24"
+    },
+    {
+      "query": "Keep your dream alive. Hit the snooze button.",
+      "id": "TEG-26"
+    },
+    {
+      "query": "I bet you that I can quit gambling.",
+      "id": "TEG-27"
+    },
+    {
+      "query": "I asked my husband to embrace his mistakes. He gave me a hug.",
+      "id": "TEG-29"
+    },
+    {
+      "query": "You think you are kind? German children are kinder.",
+      "id": "TEG-30"
+    },
+    {
+      "query": "A perfectionist walked into a bar and left. Apparently, the bar was not set high enough.",
+      "id": "TEG-32"
+    },
+    {
+      "query": "She was fired from the calendar factory because she took a day off.",
+      "id": "TEG-33"
+    },
+    {
+      "query": "Despite the high cost of living, it remains quite popular.",
+      "id": "TEG-35"
+    },
+    {
+      "query": "I think I'm indecisive, but I'm not so sure.",
+      "id": "TEG-36"
+    },
+    {
+      "query": "I have a couple of jokes about unemployed people, but none of them work.",
+      "id": "TEG-38"
+    },
+    {
+      "query": "The future and the past walked into a bar. Things got a little tense.",
+      "id": "TEG-39"
+    },
+    {
+      "query": "You know the difference between outlaws and in-laws? Outlaws are wanted.",
+      "id": "TEG-41"
+    },
+    {
+      "query": "The rotation of Planet Earth really makes my day.",
+      "id": "TEG-42"
+    },
+    {
+      "query": "I wondered why the frisbee kept getting bigger, but then it hit me.",
+      "id": "TEG-43"
+    },
+    {
+      "query": "Kleptomaniacs don't get my jokes because they like to take things literally.",
+      "id": "TEG-44"
+    },
+    {
+      "query": "I try hard to childproof my house. The kids still get in.",
+      "id": "TEG-45"
+    },
+    {
+      "query": "People are shocked when they realize how bad an electrician I am.",
+      "id": "TEG-46"
+    },
+    {
+      "query": "How do you make holy water? You boil the hell out of it.",
+      "id": "TEG-47"
+    },
+    {
+      "query": "Don't you hate it when someone answers their own question? I do.",
+      "id": "TEG-48"
+    },
+    {
+      "query": "Can you tell the difference between ignorance and apathy? I don't know and I don't care.",
+      "id": "TEG-49"
+    },
+    {
+      "query": "Programmers don't like nature because it has too many bugs.",
+      "id": "TEG-51"
+    },
+    {
+      "query": "I never liked facial hair, but it's been growing on me lately.",
+      "id": "TEG-52"
+    },
+    {
+      "query": "What do you call a bear with no teeth? Gummy bear!",
+      "id": "TEG-53"
+    },
+    {
+      "query": "I stayed up all night to find the sun, then it dawned on me.",
+      "id": "TEG-54"
+    },
+    {
+      "query": "I used to teach history, but there was no future in it.",
+      "id": "TEG-56"
+    },
+    {
+      "query": "When you have your first child, your role in life will become apparent.",
+      "id": "TEG-58"
+    },
+    {
+      "query": "I don't date tennis players because love means nothing to them.",
+      "id": "TEG-59"
+    },
+    {
+      "query": "I knew communism wouldn't work. There were red flags everywhere.",
+      "id": "TEG-60"
+    },
+    {
+      "query": "Will glass coffins ever become popular? Remains to be seen.",
+      "id": "TEG-63"
+    },
+    {
+      "query": "When life gives you melons, you might be dyslexic.",
+      "id": "TEG-64"
+    },
+    {
+      "query": "What's the difference between a hippo and a Zippo? One is heavy and the other is a little lighter.",
+      "id": "TEG-65"
+    },
+    {
+      "query": "Cameron went to buy a camo jacket but couldn't find any.",
+      "id": "TEG-66"
+    },
+    {
+      "query": "Whoever invented knock knock jokes deserves a no bell prize.",
+      "id": "TEG-67"
+    },
+    {
+      "query": "Cows have hooves instead of feet because they lactose.",
+      "id": "TEG-68"
+    },
+    {
+      "query": "Why do hot dogs look the same? They are inbred.",
+      "id": "TEG-70"
+    },
+    {
+      "query": "The wedding was so emotional that even the cake was in tiers.",
+      "id": "TEG-71"
+    },
+    {
+      "query": "Smoking in an elevator is wrong on so many levels.",
+      "id": "TEG-72"
+    },
+    {
+      "query": "Donna quit her job at the donut shop because she was fed up with the hole business.",
+      "id": "TEG-73"
+    },
+    {
+      "query": "Spiders are the only web developers who enjoy finding bugs.",
+      "id": "TEG-74"
+    },
+    {
+      "query": "Do people who climb Peak XV ever rest?",
+      "id": "TEG-75"
+    },
+    {
+      "query": "How do math teachers deal with the aftermath when they retire?",
+      "id": "TEG-76"
+    },
+    {
+      "query": "Home repair is addictive. You always look for the next fix.",
+      "id": "TEG-77"
+    },
+    {
+      "query": "What did the British man say to his mother before leaving for India? Mumbai.",
+      "id": "TEG-78"
+    },
+    {
+      "query": "Mosquitoes are like family -- quite annoying, but they carry your blood.",
+      "id": "TEG-79"
+    },
+    {
+      "query": "No matter how hard you push the envelope, it'll still be stationery.",
+      "id": "TEG-80"
+    },
+    {
+      "query": "I used to sell shoes until they gave me the boot.",
+      "id": "TEG-81"
+    },
+    {
+      "query": "How did the picture end up in prison? It was framed!",
+      "id": "TEG-82"
+    },
+    {
+      "query": "I build stairs for a living. It's an up and down business.",
+      "id": "TEG-84"
+    },
+    {
+      "query": "Whenever I sleep in the fireplace, I sleep like a log.",
+      "id": "TEG-85"
+    },
+    {
+      "query": "A plateau is the highest form of flattery.",
+      "id": "TEG-86"
+    },
+    {
+      "query": "Bono and the Edge walked into a bar. The bartender said, \"not you two again!\"",
+      "id": "TEG-87"
+    },
+    {
+      "query": "It's hard to say what my girlfriend does. She sells seashells on the seashore.",
+      "id": "TEG-88"
+    },
+    {
+      "query": "Life is like a box of chocolate. It doesn't last long if you are obese.",
+      "id": "TEG-89"
+    },
+    {
+      "query": "I'm a schizophrenic patient, and so am I.",
+      "id": "TEG-90"
+    },
+    {
+      "query": "How do you greet a terrorist on a plane? Hi, Jack.",
+      "id": "TEG-91"
+    },
+    {
+      "query": "If you get injured playing peek-a-boo, you should go to the ICU.",
+      "id": "TEG-92"
+    },
+    {
+      "query": "Thanks for explaining the word \"cornucopia\" to me, it means a lot.",
+      "id": "TEG-93"
+    },
+    {
+      "query": "I'm a prisoner. My favorite punctuation mark is the period. It marks the end of my sentence.",
+      "id": "TEG-94"
+    },
+    {
+      "query": "They say that \"icy\" is easy to spell. I see why.",
+      "id": "TEG-95"
+    },
+    {
+      "query": "What do tampons and pads have in common? They both suck. Period.",
+      "id": "TEG-96"
+    },
+    {
+      "query": "I wrote ten puns, hoping that some of them would make her laugh. Unfortunately, no pun in ten did.",
+      "id": "TEG-97"
+    },
+    {
+      "query": "I asked my dad, \"What's a couple?\". He answered, \"Two or three\". That explains why his marriage collapsed.",
+      "id": "TEG-99"
+    },
+    {
+      "query": "How do narcissists change a light bulb? They hold it in place while the world revolves around them.",
+      "id": "TEG-101"
+    },
+    {
+      "query": "Do Transformers get car or life insurance?",
+      "id": "TEG-102"
+    },
+    {
+      "query": "My husband complained that I have no sense of direction, so I packed up and right.",
+      "id": "TEG-103"
+    },
+    {
+      "query": "My wife found out I was cheating when she saw the letters I was hiding. She refused to play Scrabble with me ever again.",
+      "id": "TEG-105"
+    },
+    {
+      "query": "I have a new idea: recycling used chewing gum. I'm struggling to get it off the ground, though.",
+      "id": "TEG-106"
+    },
+    {
+      "query": "I thought I heard someone say hello in Arabic, but it was a false salaam.",
+      "id": "TEG-107"
+    },
+    {
+      "query": "How do I capitalize on an opportunity? ON AN OPPORTUNITY.",
+      "id": "TEG-108"
+    },
+    {
+      "query": "Why shouldn't people wear bras made in Chernobyl? Fallout.",
+      "id": "TEG-112"
+    },
+    {
+      "query": "What do you get if you lose one of your fingers? A 10% discount for a manicure.",
+      "id": "TEG-114"
+    },
+    {
+      "query": "I caught my son chewing on electrical cords. He's now grounded until he can conduct himself.",
+      "id": "TEG-116"
+    },
+    {
+      "query": "Communism jokes aren't funny unless everyone gets them.",
+      "id": "TEG-117"
+    },
+    {
+      "query": "A man sued United Airlines because his luggage went missing. He lost his case.",
+      "id": "TEG-118"
+    },
+    {
+      "query": "I'm giving away dead AAA batteries, free of charge.",
+      "id": "TEG-120"
+    },
+    {
+      "query": "My ex was hit by a truck. That could've been me, but I can't drive a truck.",
+      "id": "TEG-122"
+    },
+    {
+      "query": "Doctor: Bad news. You have AIDS and Alzheimer's. Patient: Well, at least I don't have AIDS.",
+      "id": "TEG-124"
+    },
+    {
+      "query": "People always blame me after they get sick because I am the German.",
+      "id": "TEG-128"
+    },
+    {
+      "query": "Most Americans don't work on July 4th. Fire works.",
+      "id": "TEG-132"
+    },
+    {
+      "query": "Ghosts are bad liars because you can see right through them.",
+      "id": "TEG-133"
+    },
+    {
+      "query": "What did one plate say to the other plate? Dinner is on me.",
+      "id": "TEG-137"
+    },
+    {
+      "query": "Who speaks a French word and is a great kisser? Moi.",
+      "id": "TEG-138"
+    },
+    {
+      "query": "If I found a million dollars in the street, I would give it back if it belonged to a poor person.",
+      "id": "TEG-139"
+    },
+    {
+      "query": "The invention of wheels really got things rolling.",
+      "id": "TEG-144"
+    },
+    {
+      "query": "When I was a kid, I loved building sand castles with my grandma until my mom took the urn from me.",
+      "id": "TEG-146"
+    },
+    {
+      "query": "You know what I love about ambiguity? Stuff.",
+      "id": "TEG-154"
+    },
+    {
+      "query": "The periodic table, formulated by Mendeleev, is elementary knowledge.",
+      "id": "TEG-158"
+    },
+    {
+      "query": "I'm habitually condescending (that means I talk down to people).",
+      "id": "TEG-159"
+    },
+    {
+      "query": "Cleaning mirrors is a job I can really see myself doing.",
+      "id": "TEG-161"
+    },
+    {
+      "query": "What do you call a small mother? A minimum.",
+      "id": "TEG-162"
+    },
+    {
+      "query": "Meg says she suffers from migraines, but I think it's all in her head.",
+      "id": "TEG-163"
+    },
+    {
+      "query": "How do I improve my ADHD? Upgrade to AD4K.",
+      "id": "TEG-164"
+    },
+    {
+      "query": "What do they call a mobile phone in prison? Cell phone.",
+      "id": "TEG-165"
+    },
+    {
+      "query": "What do you call a dwarf psychic who escaped from prison? A small medium at large.",
+      "id": "TEG-167"
+    },
+    {
+      "query": "The pyramids are in Egypt because they are too big to fit into the British Museum.",
+      "id": "TEG-168"
+    },
+    {
+      "query": "Give a man a poisonous fish, and you feed him for a lifetime.",
+      "id": "TEG-172"
+    },
+    {
+      "query": "Nothing tops a plain pizza.",
+      "id": "TEG-175"
+    },
+    {
+      "query": "I was going to buy half a dozen cans of coca cola, but I picked 7 up instead.",
+      "id": "TEG-176"
+    },
+    {
+      "query": "Collin's coat fell on the floor and made a loud noise. Collin was wearing it.",
+      "id": "TEG-178"
+    },
+    {
+      "query": "Dad told me that I could be anyone I wanted to be, but he didn't tell me that identity theft is a crime.",
+      "id": "TEG-179"
+    },
+    {
+      "query": "My grandpa, who is not a psychic, knew the exact time of his death. The judge told him.",
+      "id": "TEG-181"
+    },
+    {
+      "query": "I'm selling my vacuum cleaner because it's just collecting dust.",
+      "id": "TEG-182"
+    },
+    {
+      "query": "Why use big words when a diminutive lexicon suffices?",
+      "id": "TEG-183"
+    },
+    {
+      "query": "I stick my hands inside feather pillows, and now I'm feeling down.",
+      "id": "TEG-184"
+    },
+    {
+      "query": "Greg was buried alive. It was a grave mistake.",
+      "id": "TEG-187"
+    },
+    {
+      "query": "What has four wheels and flies? A garbage truck.",
+      "id": "TEG-189"
+    },
+    {
+      "query": "19 and 20 got into a fight. 21.",
+      "id": "TEG-192"
+    },
+    {
+      "query": "I prefer to watch movies in the cinema. It's boring to watch a room of strangers.",
+      "id": "TEG-193"
+    },
+    {
+      "query": "Whenever I ask someone what LGBTQIA+ stands for, I never get a straight answer.",
+      "id": "TEG-194"
+    },
+    {
+      "query": "\"Bad news. I'm afraid your DNA is reversed.\" \"AND?\"",
+      "id": "TEG-196"
+    },
+    {
+      "query": "A Frenchman, a Spaniard, and a German walk into a dim bar. The bartender asks, \"Can you see me?\" \"Oui.\" \"Si.\" \"Ja.\"",
+      "id": "TEG-199"
+    }    
+  ]
+}
